@@ -3,12 +3,12 @@
     <channel>
         <title>喵图</title>
         <item>
-            <title>1.0.25</title>
-            <pubDate>Thu, 24 Sep 2026 18:01:49 +0800</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+            <title>1.0.26</title>
+            <pubDate>Thu, 24 Sep 2026 19:09:47 +0800</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/flit25/miaotu/releases/download/v1.0.25/MiaoTu-1.0.25.dmg" length="2533604" type="application/octet-stream" sparkle:edSignature="DoY+hLJv9hmSq/ea7YR10DXgw8Fpvnla+HEesJkgZacrYcdZr6C5GZup9W0hQ9+ALYwujpNrO7BltdhDnrgABw=="/>
+            <enclosure url="https://github.com/flit25/miaotu/releases/download/v1.0.26/MiaoTu-1.0.26.dmg" length="2543613" type="application/octet-stream" sparkle:edSignature="FHrirg2Lpwb2xxY5i2sjYKbAMstVpiW0kA/f+IGHvkUR8ePUAbTaX2buhY+N26IiCR4nnEb+KdBMbdw2nZ3GDw=="/>
         </item>
     </channel>
 </rss>
