@@ -3,12 +3,12 @@
     <channel>
         <title>MiaoTu</title>
         <item>
-            <title>1.0.34</title>
-            <pubDate>Mon, 28 Sep 2026 04:36:48 +0800</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
+            <title>1.0.36</title>
+            <pubDate>Mon, 28 Sep 2026 22:30:09 +0800</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/flit25/miaotu/releases/download/v1.0.34/MiaoTu-1.0.34.dmg" length="2356430" type="application/octet-stream" sparkle:edSignature="MdSvjwRjvJumzIxSAXzuZXYaXy0bDCcF+huLExkdojFTc27CC4vGoDo/ge0+lOzES/NJOtGjZ//fXRklWW/RBA=="/>
+            <enclosure url="https://github.com/flit25/miaotu/releases/download/v1.0.36/MiaoTu-1.0.36.dmg" length="2357906" type="application/octet-stream" sparkle:edSignature="EzhFmw4vNk4A8GdoXlqslTjJw9fLolOcQU4wA0gWiNsSm7WcTXGzj5KVYshtXuRp5mStJE5pS07ZBEN8fRtuDA=="/>
         </item>
     </channel>
 </rss>
